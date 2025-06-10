@@ -6,7 +6,17 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=caped-crusader21&label=Profile%20Views&color=blueviolet&style=flat" alt="caped-crusader21" />
 </p>
+---
 
+### 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrinal-anandd"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:mrinal.anand.am@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/caped-crusader21"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
+</p>
+
+---
 ---
 
 ### 👨‍💻 About Me
@@ -59,16 +69,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caped-crusader21&theme=radical" />
 </p>
 
----
 
-### 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mrinal-anandd"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:mrinal.anand.am@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/caped-crusader21"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-</p>
-
----
 
 <p align="center"><em>⚡ Keep learning. Keep building. Keep shipping. 🚀</em></p>
