@@ -22,8 +22,8 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  <img src="![GL](https://github.com/user-attachments/assets/336a1ba4-affc-47b3-bb1d-dcd0ad6cc530)
-" alt="GlobalLogic" height="30"/>
+  ![GL](https://github.com/user-attachments/assets/8aa0689b-4df6-4f8a-99a8-f7e734b5f0dc)
+
   &nbsp;Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
 </p>
 
