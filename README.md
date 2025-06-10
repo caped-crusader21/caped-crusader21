@@ -22,9 +22,9 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  ![GL](https://github.com/user-attachments/assets/8aa0689b-4df6-4f8a-99a8-f7e734b5f0dc)
+![GL](https://github.com/user-attachments/assets/dc445e0a-fdcc-45e1-b559-0a465dd5c5fa)
 
-  &nbsp;Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
+Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
 </p>
 
 <p align="left">
