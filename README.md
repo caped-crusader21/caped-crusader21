@@ -22,7 +22,8 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/f/fc/Globallogic_logo.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fuser%2Fgloballogic&psig=AOvVaw31qSTgaDWQzIP3qQNksBvF&ust=1749665852780000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJCIxLO7540DFQAAAAAdAAAAABAE)" alt="GlobalLogic" height="30"/>
+  <img src="![GL](https://github.com/user-attachments/assets/336a1ba4-affc-47b3-bb1d-dcd0ad6cc530)
+" alt="GlobalLogic" height="30"/>
   &nbsp;Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
 </p>
 
