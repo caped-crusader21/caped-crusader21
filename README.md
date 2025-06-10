@@ -20,14 +20,12 @@
 </p>
 
 ### 👨‍💻 About Me
-<p align="left">
-  Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
-</p>
 
-<p align="left">
-  Bachelors in Technology (Information Technology), <strong>Birla Institute of Technology,Mesra</strong> (2020–2024)
-</p>
+💼 **Software Engineer at GlobalLogic** (Aug 2024 – Present)  
+🎓 **Bachelors in Technology (Information Technology),** Birla Institute of Technology, Mesra (2020–2024)
+
 ---
+
 
 ### 🛠️ Tech Stack
 
