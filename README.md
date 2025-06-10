@@ -21,12 +21,16 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently building: **Generative AI apps at GlobalLogic**
-- 🌱 Learning: **Advanced Java, C++, React.js, System Design**
-- 👯 Looking to collaborate on: **Open Source & AI/ML projects**
-- 💬 Ask me about: **LangChain, Python, Full-stack development**
-- 📫 Reach me at: **mrinal.anand.am@gmail.com**
-- ⚡ Fun Fact: *Code, sleep, coffee, repeat – my IDE is my second home*
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/Globallogic_logo.svg" alt="GlobalLogic" height="30"/>
+  &nbsp;Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
+</p>
+
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Birla_Institute_of_Technology%2C_Mesra_Logo.png" alt="BIT Mesra" height="30"/>
+  &nbsp;B.Tech (Information Technology), <strong>BIT Mesra</strong> (2020–2024)
+</p>
+
 
 ---
 
@@ -47,14 +51,6 @@
 ![LangChain](https://img.shields.io/badge/LangChain-212121?style=flat&logo=LangChain&logoColor=green)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 🚀 Projects
-
-- 💬 [AI Learning Assistant](https://github.com/caped-crusader21/Skill-Sync) — Fast PDF-based chatbot using LLMs & FAISS.
-- 🤖 [Custom Copilot](https://github.com/caped-crusader21/Custom-Co-Pilot) — Code faster with this Gemini-powered VS Code extension.
-- 🎵 [EchoBox](https://github.com/caped-crusader21/EchoBox) — Cross-platform music player built with React & Audio API.
 
 ---
 
