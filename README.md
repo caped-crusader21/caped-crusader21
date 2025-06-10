@@ -1,7 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Mrinal Anand</h1>
+![20250611_0112_Coding Style Logo_simple_compose_01jxdnr42pfqm8wn7jsxqmd99c](https://github.com/user-attachments/assets/f80cc7d0-dde6-4ea8-8657-ec938e5444be)
+
 <h3 align="center" style="font-weight:600; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">
-  Software Engineer · Full-Stack Developer · Generative AI Practitioner
+  Software Engineer  ·  Full-Stack Developer  ·  Generative AI Practitioner
 </h3>
 
 
@@ -46,7 +47,7 @@
 
 **Frameworks, Libraries & Tools:**  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**AI & ML Tools:**  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-00CFFF?style=flat&logo=google&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0072C6?style=flat&logo=vector&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-282C34?style=flat&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF5733?style=flat&logo=ai&logoColor=white) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0066FF?style=flat&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
+**AI & ML Tools:**  ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-00CFFF?style=flat&logo=google&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-0072C6?style=flat&logo=vector&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-282C34?style=flat&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-FF5733?style=flat&logo=ai&logoColor=white) ![PyMuPDF](https://img.shields.io/badge/PyMuPDF-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-0066FF?style=flat&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) 
 
 
 
