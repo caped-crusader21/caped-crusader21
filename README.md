@@ -21,16 +21,12 @@
 
 ### 👨‍💻 About Me
 <p align="left">
-  <img src="https://raw.githubusercontent.com/caped-crusader21/caped-crusader21/main/assets/gl-logo.jpg" alt="GlobalLogic" height="20" style="vertical-align: middle;"/>
-  &nbsp;Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
+  Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
 </p>
 
 <p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/6e/Birla_Institute_of_Technology%2C_Mesra_Logo.png" alt="BIT Mesra" height="30"/>
-  &nbsp;B.Tech (Information Technology), <strong>BIT Mesra</strong> (2020–2024)
+  Bachelors in Technology (Information Technology), <strong>Birla Institute of Technology,Mesra</strong> (2020–2024)
 </p>
-
-
 ---
 
 ### 🛠️ Tech Stack
