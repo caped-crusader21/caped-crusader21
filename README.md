@@ -19,7 +19,9 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-### 👨‍💻 About Me
+<p>
+  <img src="https://img.shields.io/badge/About%20Me-000?logo=readme&logoColor=white" width="110" style="vertical-align:middle;"/>
+</p>
 
 💼 **Software Engineer at GlobalLogic (Aug 2024 – Present)**  
 🎓 **Bachelors in Technology (Information Technology), Birla Institute of Technology, Mesra (2020–2024)**
@@ -30,7 +32,9 @@
 </p>
 
 
-### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Tech%20Stack-000?logo=visualstudiocode&logoColor=white" width="120" style="vertical-align:middle;"/>
+</p>
 
 **Languages:**  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
