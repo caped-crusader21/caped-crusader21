@@ -24,8 +24,9 @@
 </p>
 
 💼 **Software Engineer at GlobalLogic (Aug 2024 – Present)**  
-🎓 **Bachelors in Technology (Information Technology), Birla Institute of Technology, Mesra (2020–2024)**
-<p>📧 <strong>Reach me at:</strong> <a href="mailto:mrinal.anand.am@gmail.com">mrinal.anand.am@gmail.com</a></p>
+🎓 **Bachelors in Technology (Information Technology), Birla Institute of Technology, Mesra (2020–2024)**  
+📧 **Reach me at:** **mrinal.anand.am@gmail.com**
+
 
 <!-- Section Break -->
 <p align="center">
