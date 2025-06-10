@@ -46,7 +46,10 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </p>
 
-### ![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white) GitHub Stats
+<p>
+  <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" width="100" style="vertical-align:middle;"/>
+  <strong style="font-size: 1.2em;">GitHub Stats</strong>
+</p>
 
 <!--
 <p align="center">
