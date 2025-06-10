@@ -20,8 +20,10 @@
 </p>
 
 ### 👨‍💻 About Me
+![GL](https://github.com/user-attachments/assets/05eab043-d7a3-44a8-8900-d3b9393435f7)
 
 <p align="left">
+  
   <img src="https://raw.githubusercontent.com/caped-crusader21/caped-crusader21/main/assets/gl-logo.jpg" alt="GlobalLogic" height="30"/>
   &nbsp;Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
 </p>
