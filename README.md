@@ -24,7 +24,10 @@
 💼 **Software Engineer at GlobalLogic (Aug 2024 – Present)**  
 🎓 **Bachelors in Technology (Information Technology), Birla Institute of Technology, Mesra (2020–2024)**
 
----
+<!-- Section Break -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 
 ### 🛠️ Tech Stack
@@ -45,7 +48,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
----
+<!-- Section Break -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### 📊 GitHub Stats
 
