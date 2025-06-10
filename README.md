@@ -22,9 +22,8 @@
 ### 👨‍💻 About Me
 
 <p align="left">
-![GL](https://github.com/user-attachments/assets/dc445e0a-fdcc-45e1-b559-0a465dd5c5fa)
-
-Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
+  <img src="https://raw.githubusercontent.com/caped-crusader21/caped-crusader21/main/assets/gl-logo.jpg" alt="GlobalLogic" height="30"/>
+  &nbsp;Software Engineer at <strong>GlobalLogic</strong> (Aug 2024 – Present)
 </p>
 
 <p align="left">
