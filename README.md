@@ -7,14 +7,17 @@
   <img src="https://komarev.com/ghpvc/?username=caped-crusader21&label=Profile%20Views&color=blueviolet&style=flat" alt="caped-crusader21" />
 </p>
 
+<!-- Social Links -->
 <p align="center">
   <a href="https://www.linkedin.com/in/mrinal-anandd"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:mrinal.anand.am@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.instagram.com/mrinal.anandd/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
----
+<!-- Section Break -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ### 👨‍💻 About Me
 
@@ -65,7 +68,5 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caped-crusader21&theme=radical" />
 </p>
-
-
 
 <p align="center"><em>⚡ Keep learning. Keep building. Keep shipping. 🚀</em></p>
