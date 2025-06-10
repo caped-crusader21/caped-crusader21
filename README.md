@@ -6,9 +6,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=caped-crusader21&label=Profile%20Views&color=blueviolet&style=flat" alt="caped-crusader21" />
 </p>
----
-
-### 📫 Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mrinal-anandd"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
