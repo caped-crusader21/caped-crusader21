@@ -1,6 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Mrinal Anand</h1>
-<h3 align="center">🚀 Full-Stack Developer | AI Explorer | Open Source Contributor</h3>
+<h3 align="center" style="font-weight:600; font-family: 'Segoe UI', sans-serif; letter-spacing: 0.5px;">
+  Software Engineer · Full-Stack Developer · Generative AI Practitioner
+</h3>
+
 
 <!-- Profile views -->
 <p align="center">
