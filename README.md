@@ -1,4 +1,4 @@
-<!-- Banner -->
+
 <h1 align="center">Hi 👋, I'm Mrinal Anand</h1>
 <h3 align="center">🚀 Full-Stack Developer | AI Explorer | Open Source Contributor</h3>
 
