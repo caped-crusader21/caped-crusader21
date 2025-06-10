@@ -48,7 +48,6 @@
 
 <p>
   <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" width="100" style="vertical-align:middle;"/>
-  <strong style="font-size: 1.2em;">GitHub Stats</strong>
 </p>
 
 <!--
