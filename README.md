@@ -21,8 +21,8 @@
 
 ### 👨‍💻 About Me
 
-💼 **Software Engineer at GlobalLogic** (Aug 2024 – Present)  
-🎓 **Bachelors in Technology (Information Technology),** Birla Institute of Technology, Mesra (2020–2024)
+💼 **Software Engineer at GlobalLogic (Aug 2024 – Present)**  
+🎓 **Bachelors in Technology (Information Technology), Birla Institute of Technology, Mesra (2020–2024)**
 
 ---
 
@@ -49,13 +49,17 @@
 
 ### 📊 GitHub Stats
 
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caped-crusader21&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caped-crusader21&layout=compact&theme=radical" />
 </p>
+-->
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=caped-crusader21&theme=radical" />
 </p>
 
-<p align="center"><em>⚡ Keep learning. Keep building. Keep shipping. 🚀</em></p>
+<p align="center"><em>🦇 It's not who I am underneath, but what I do that defines me. 🚀</em></p>
+
