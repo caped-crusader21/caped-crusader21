@@ -4,7 +4,6 @@
   Software Engineer  •  Full-Stack Developer  •  Generative AI Practitioner
 </h3>
 
-
 <!-- Profile views -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=caped-crusader21&label=Profile%20Views&color=blueviolet&style=flat" alt="caped-crusader21" />
