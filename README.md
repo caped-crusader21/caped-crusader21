@@ -29,7 +29,7 @@
 🎓 **Bachelors in Technology (Information Technology), Birla Institute of Technology, Mesra (2020–2024)**  
 📄 **Resume:** 
 [Mrinal_Anand.pdf](https://github.com/user-attachments/files/20776227/Mrinal_Anand.pdf)
-
+📧 **Reach me at:** **mrinal.anand.am@gmail.com**
 
 <!-- Section Break -->
 <p align="center">
