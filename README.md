@@ -61,14 +61,14 @@
   <img src="https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white" width="100" style="vertical-align:middle;"/>
 </p>
 
-<!--
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caped-crusader21&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caped-crusader21&layout=compact&theme=radical" />
 </p>
--->
 
-<img src="https://streak-stats.demolab.com?user=caped-crusader21&theme=radical&hide_border=true" />
+
+
 
 
 
