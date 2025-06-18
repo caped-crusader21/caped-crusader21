@@ -68,6 +68,10 @@
 </p>
 -->
 <p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=caped-crusader21&theme=radical" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caped-crusader21&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Contribution Graph" style="width:75%/>
 </p>
 
