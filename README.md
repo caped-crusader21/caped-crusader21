@@ -67,9 +67,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caped-crusader21&layout=compact&theme=radical" />
 </p>
 -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caped-crusader21&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Contribution Graph" />
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Activity-000?logo=github&logoColor=white" width="140" style="vertical-align:middle;"/>
 </p>
+
 
 
 
