@@ -68,7 +68,7 @@
 </p>
 -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=caped-crusader21&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caped-crusader21&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
 
 
