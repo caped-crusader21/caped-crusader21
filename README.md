@@ -68,9 +68,8 @@
 </p>
 -->
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=caped-crusader21&theme=radical" />
-</p>
+<img src="https://streak-stats.demolab.com?user=caped-crusader21&theme=radical&hide_border=true" />
+
 
 
 <p align="center">
