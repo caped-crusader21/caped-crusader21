@@ -72,7 +72,7 @@
 -->
 
 <div align="center" style="width: 80%;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caped-crusader21&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub Contribution Graph" style="width: 100%;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=caped-crusader21&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub activity (last 30 days)" style="width: 100%;" />
 </div>
 
 
