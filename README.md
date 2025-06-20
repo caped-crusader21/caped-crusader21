@@ -65,12 +65,12 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=caped-crusader21&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caped-crusader21&layout=compact&theme=radical" />
+
+-->
 </p>
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=caped-crusader21&theme=radical"/>
 </p>
--->
-
 <div align="center" style="width: 80%;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=caped-crusader21&theme=react-dark&bg_color=20232a&hide_border=true" alt="GitHub activity (last 30 days)" style="width: 100%;" />
 </div>
